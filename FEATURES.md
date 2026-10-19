@@ -12,3 +12,13 @@ Install them from this repository:
 
     mkdir -p "$HOME/.local/bin"
     install -m 0755 features/cartograph-os-workspace features/cartograph-os-plan features/cartograph-os-check "$HOME/.local/bin/"
+
+## Preinstalled purpose software
+
+The installer adds these three Flathub applications for geographic information systems, mapping, and field map research:
+
+1. **Zotero** — org.zotero.Zotero
+2. **VSCodium** — com.vscodium.codium
+3. **darktable** — org.darktable.Darktable
+
+They are installed from Flathub during setup. The repository contains application IDs and documentation, not third-party binaries; each publisher’s terms and licenses apply.

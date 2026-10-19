@@ -4,3 +4,8 @@ com.opera.opera-gx
 org.qgis.qgis
 org.gnome.Maps
 org.libreoffice.LibreOffice
+
+# Three additional preinstalled purpose-specific applications
+org.zotero.Zotero
+com.vscodium.codium
+org.darktable.Darktable
