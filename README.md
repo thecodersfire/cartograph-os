@@ -20,3 +20,8 @@ To build a customized ISO, use Cubic on an Ubuntu host and follow [Cubic instruc
 
 The `cartograph-os.svg` wallpaper is original. Cartograph OS is an independent Ubuntu customization, not an official Ubuntu, Canonical, Mozilla, or Opera product.
 
+
+## Purpose-specific built-in tools
+
+See [FEATURES.md](FEATURES.md) for three local tools included for geographic information systems, mapping, and field map research.
+
