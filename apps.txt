@@ -55,3 +55,4 @@ com.github.flxzt.rnote
 org.kde.kate
 org.gnome.meld
 org.kde.konsole
+org.blender.Blender
