@@ -26,4 +26,4 @@ The `cartograph-os.svg` wallpaper is original. Cartograph OS is an independent U
 See [FEATURES.md](FEATURES.md) for three local tools included for geographic information systems, mapping, and field map research.
 
 
-The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
+The installer includes fifteen additional purpose-specific applications; the complete list is in [FEATURES.md](FEATURES.md).
